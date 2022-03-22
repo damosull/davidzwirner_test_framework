@@ -1,4 +1,4 @@
-- `integration` folder contains test files.
+- `cypress/integration` folder contains test files.
 
 How to run tests:
 1. Download the github repo
